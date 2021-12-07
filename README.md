@@ -5,8 +5,7 @@ This project is the Data1030 Project. The report could be accesses in the data10
 This poject aims at predicting the housing price in Cook County, Illinois. The target variable is Log Sale Price, which is the Sale Price after Log Transformation
 
 
-This project takes data from the official website of Cook County.https://datacatalog.cookcountyil.gov/Property-Taxation/Archive-Cook-County-Assessor-s-Residential-Sales-D/5pge-nu6u
-
+This project takes data from the official website of Cook County.
 
 Regression Models are adopted as the target varibale is continuous.
 
